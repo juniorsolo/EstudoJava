@@ -1,0 +1,5 @@
+Junior;10000.0
+Ligia;8000.4
+Andressa;9200.22
+Leandro;7000.0
+Fabio;14090.0
